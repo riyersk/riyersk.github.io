@@ -5,7 +5,6 @@ title: Project Benson Reflection
 
 Last week, on Monday the 8th, I started at Metis, a data science bootcamp.  The first project was due on Friday, January 12th.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
 
 For this project, we had to advise an imaginary group, Women Tech Women Yes (WTWY) on the placement of their street teams at subway entrances for outreach for their annual gala.  These street teams were to invite people to register with their email addresses for a free ticket to their event.  WTWY wanted to target people who would come to their event and people who might potentially donate to their cause.  The data to be used was the MTA turnstile data freely available online, as well as any other data source we as a group thought might be useful.
 
