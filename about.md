@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Subramanian Iyer.  I'm an aspiring data scientist, currently working through a data science bootcamp at Metis.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Fun Fact: I learned how to surf in India!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[riyersk@gmail.com](mailto:riyersk@gmail.com)
