@@ -5,7 +5,7 @@ title: Project McNulty Reflection
 
 On Wednesday, the 14th, we presented our second individual project, which was a classification project.  I chose to classify Lending Club loans, i.e., predict whether or not a given loan would charge off.
 
-The details of how I went about the project can be found [in this repository] ("https://github.com/riyersk/LCPredictionProject"), so I won't rehash it here.  What I want to do instead is speak to some thoughts that came to me while doing this project.
+The details of how I went about the project can be found [in this repository]("https://github.com/riyersk/LCPredictionProject"), so I won't rehash it here.  What I want to do instead is speak to some thoughts that came to me while doing this project.
 
 First, in an ideal world with infinite data, we could simply subset our data based on all categorical variables and then within each subset, build a separate model based on the remaining numeric variables. For example, if we had 3 categorical variables, A, B, and C, and A took on values 1 and 2, B took values 1, 2, and 3, and C took values 1 and 2, we'd split the data into 12 different groups, one for each combination of A,B, and C, and then build a separate model for each one.  For prediction, we would then simply pick the model that corresponded to the categorical values of the test data points and return the output of the corresponding model.
 
